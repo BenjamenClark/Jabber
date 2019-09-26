@@ -9,3 +9,7 @@ color:blue;
 }
 
 '''
+'''html
+<body>
+</body>
+'''
